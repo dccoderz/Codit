@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 250px;
+    width: 450px;
+}
+
+.banner{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.banner svg{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(41, 41, 41);
+    object-fit: contain;
+    display: block;
+    margin: auto;
+}
+
+.logo-background-square{
+    fill: transparent;
+}
+
+.text{
+    fill: white;
+}
